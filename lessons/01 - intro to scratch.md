@@ -14,8 +14,8 @@
 * angry birds: http://j.mp/xg82ac
 
 ## stuff to take home
-* I'll hand out a letter for your parents at the end so you can get scratch at home
-* we'll save your work here, but if you register you can work on your projects at home as well
+* we'll save your work here at school, but if you register you can work on your projects at home as well
+* when you go home -- check out this page to see what we did: http://quickr.es/scratch1
 
 ### where to get scratch
 1. go to http://scratch.mit.edu/
