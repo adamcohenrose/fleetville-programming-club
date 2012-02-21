@@ -1,4 +1,4 @@
-# lesson 1
+<h1 id="lesson1">lesson 1</h1>
 
 ## what is scratch?
 * make your own games
