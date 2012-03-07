@@ -1,5 +1,10 @@
 # lesson 3
 
+## laptop check before start
+* scratch installed?
+* sound working?
+* can download/upload projects (scratch.ini has proxy)?
+
 ## welcome and recap
 * let's see what you made at home! (2m each -- up to 10m)
 * we're working in pairs again today -- I'll be swapping pairs around this time

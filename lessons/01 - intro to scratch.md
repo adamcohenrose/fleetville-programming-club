@@ -31,8 +31,15 @@
   * put a Scratch project into your own web page
 1. know that everything you share on the scratch website is **public**
 
+### sharing a project from Scratch
+1. open your project in Scratch
+1. go to the Share menu and choose "Share This Project Online..."
+1. enter your scratch login and password
+1. give the project a name (and maybe a description and some tags)
+1. click OK!
+
 ## starting out
-* try out the scratch help "getting started"
+* try out the scratch help "getting started" (Help > Help Page... > Getting Started)
   * make the cat dance to a beat and change colour with the space bar
   * import/draw another sprite and get them to say something
 * right-click on any block to get help and suggestions for it
