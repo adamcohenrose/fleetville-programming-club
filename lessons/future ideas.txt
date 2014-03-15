@@ -1,0 +1,25 @@
+# ideas for the future
+
+*From Computing at School, [Adrian Taylor](http://community.computingatschool.org.uk/users/1946 "Adrian Taylor") writes:* I teach up to year 8 (prep school). My Year 4s do basic animation/story telling type stuff with Scratch - two characters with a dialogue (using wait, etc, to get the timing right) and asking questions of the viewer, taking different actions depending on response. Nothing major. Year 5s make a platform game - I model something akin to JetPac from the Spectrum days using [JetPackGirl](http://scratch.mit.edu/projects/jay/133 "Scratch  | Project | jetpack girl"), and they tend to go with that but they’re free to do what they like. They also get to produce a two player racing game. Year 6 tend to use Kodu, and last year most of them made Mario Karts style games. One girl came up with an idea that was more similar to Marble Racer. Excellent game. I’m hoping to do Javascript and Python with my Year 7s and 8s, and also some Arduino.
+
+## prizes
+* give out certificates in school assembly
+* award t-shirt for best game?
+
+## hardware
+
+Waiting for the [Makeymakey](http://www.makeymakey.com/ "MaKey MaKey: An Invention Kit for Everyone") board to arrive...
+
+Scratch@MIT workshop on Sensing Our World: <http://www2.warwick.ac.uk/fac/sci/wmg/about/outreach/resources> (run by Margaret J. Low from Warwick Uni)
+
+We have a LEGO Mindstorms kit and can control it using Enchanting...
+
+App Inventor (Android) curricula: <http://www.royalsoced.org.uk/1035_MobileAppDevelopment.html> & https://sites.google.com/site/appinventoredu/
+
+## extending beyond Scratch
+
+Khan Academy & Vi Hart: <http://www.khanacademy.org/cs> (especially <http://www.khanacademy.org/cs/plant-leaves/822940457>)
+
+## inspirations
+
+loads of YouTube videos from the CAS conference...

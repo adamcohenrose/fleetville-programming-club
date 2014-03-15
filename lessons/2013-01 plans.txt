@@ -1,0 +1,66 @@
+# Spring term 2013
+
+## Intentions
+* controlling robots
+* spread code club throughout school
+* puzzles, challenges (problem solving)
+* sticking parts together, rather than a recipe
+* collaboration
+* teaching younger kids
+
+## Ideas
+* Codeclub Term Two:
+	* sound machine (sound recorder) - 2-3 wks
+	* frantic felix (platform game) - 2-3 wks
+		* make different baddies - share them between games
+		* different properties: shoots, follows you, can be killed after pill...
+		* different superpowers for goodie
+		* what went well with previous games?
+			* something that you're proud of
+			* something that you find annoying
+* Mindstorms + Enchanting + Mayan Adventure
+	* going through a maze
+	* shy puppy
+	* line follower
+	* fastest round a maze (competing programs)
+* Animation 13 (entries due by March 22nd)
+	* need a self-running animation for 1 minute
+	* tutorial on storyboards
+	* try Alice? -- NO: too complicated!
+* Raspberry Pi
+	* Scratch + GPIO
+	* robot competition with Mindstorms + Enchanting
+	* won't be ready for tinkering for 2 weeks or so...
+* Remote working with Hertford CodeClub?
+	* Scratch networking between schools
+	* remote sound machine?
+* school ICT projects
+* expand into school curriculum
+* teaching younger kids
+	* make your own Scratch cards
+	* Scratch buddies
+
+## Planning
+* time available:
+	* 6 weeks until half term
+	* then 3 weeks (am away for 4th) until animation due
+	* then 1 week until end of term
+* only have one Mindstorms kit, so only one pair on Enchanting...
+	* no point in installing on laptops...
+	* will probably take them 1-2 sessions to do maze / shy puppy
+* 3/4 weeks on animation?
+	* storyboarding & story arcs
+		* toontastic?
+		* Rosanna
+	* making sprites & backgrounds
+	* adding music & sounds -- sourcing from open sound resources on the web
+		* can use sound machine to introduce!
+
+## Raspberry Pi requirements
+* case to avoid sticky fingers
+	* can use cassette case: <http://imgur.com/a/AZIZN#6>
+	* or build a case with LEGO
+* more solid breakout
+	* use M/F & M/M cables?
+	* 75 M/M: <http://is.gd/YAmkVa> £3.90
+	* 25 F/M: <http://is.gd/HAwLS2> £3.49
